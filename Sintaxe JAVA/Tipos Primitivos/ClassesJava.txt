@@ -1,0 +1,18 @@
+Em casa, pesquise informações sobre as classes Math, Scanner, System e String do Java.
+
+1. Math
+A classe Math fornece métodos para realizar operações matemáticas, como trigonometria, 
+logaritmos, exponenciação, e arredondamentos. Ela é uma classe utilitária com métodos estáticos, 
+ou seja, você não precisa criar uma instância da classe para usá-la.
+
+2. Scanner
+A classe Scanner é usada para ler dados de várias fontes, como entrada padrão (teclado), 
+arquivos e outros fluxos de entrada
+
+3. System
+A classe System fornece acesso ao ambiente do sistema, 
+incluindo entrada e saída padrão (por exemplo, System.out para imprimir no console).
+
+4. String
+A classe String é usada para manipular cadeias de caracteres. 
+Ela é imutável, o que significa que uma vez criada, seu valor não pode ser alterado.

@@ -1,0 +1,8 @@
+Quais tipos de declarações a seguir são válidas em Java?
+○ int matricula = 424242; V
+○ int euler = 2.71828; F
+○ boolean eAluno = 1; F
+○ float PESO_MARTE_KG = 6.4171e23; F
+○ int LARANJA_HEX = 0FFA500; F
+○ int bin10 = 0b1010; V
+○ char WHITE_SPACE = ' '; V

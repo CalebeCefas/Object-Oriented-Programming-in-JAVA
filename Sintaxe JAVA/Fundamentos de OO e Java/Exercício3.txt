@@ -1,0 +1,8 @@
+converte V
+2vezes X
+adiciona um X
+adiciona_dois X
+tempo/espaço X
+FazSoma X
+dEsenhacIRCULo X
+classe V
