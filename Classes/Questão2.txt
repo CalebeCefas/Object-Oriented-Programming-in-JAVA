@@ -1,0 +1,18 @@
+Estádio->  Assentos(numeração), 
+           Entradas(numeração), 
+           Times(jogadoes, tecnico), 
+           Torcedores(numero do assento, time) 
+
+Universidade-> Alunos(matéria, matrícula), 
+               Professores(matéria, formação), 
+               Salas(numeração), 
+               RU
+
+Restaurante-> Cardápio(Pratos, Preço), 
+              Mesas(numeração, tamanho), 
+              Garçons, 
+              Cozinheiros(chef, auxiliar)
+
+Casa-> Cômodos(tamanho, nome, quantidade de móveis), 
+       Móveis(tipo, material), 
+       Iluminação(tipo de lampada)

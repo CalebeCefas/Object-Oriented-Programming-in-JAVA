@@ -1,0 +1,4 @@
+Estádio-> Assentos, Entradas, Times, Torcedores 
+Universidade-> Alunos, Professores, Salas, RU
+Restaurante-> Cardápio, Mesas, Garçons, Cozinheiros
+Casa-> Cômodos, Móveis, Iluminação

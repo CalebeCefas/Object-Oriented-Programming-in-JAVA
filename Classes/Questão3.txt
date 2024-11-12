@@ -1,0 +1,7 @@
+Estádio->  Jogador(Decidir Contrato, Aumentar salário, Tranferência, Substituição)
+
+Universidade-> Professores(Reprovar aluno, Planejar Aula)
+
+Restaurante-> Mesas(Reservar, Conta da mesa, Aumentar quantidade de cadeiras)
+
+Casa-> Cômodos(Mudar móveis, Limpar, Apagar ou Acender Luz, abrir ou fechar janela),
