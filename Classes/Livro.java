@@ -8,8 +8,8 @@ public class Livro{
         this.editora = editora;
     }
 
-    int calcularIdade(int anoPublicacao){
-        return 2024-anoPublicacao;
+    int calcularIdade(int anoAtual){
+        return anoAtual-anoPublicacao;
     }
 
     void imprimeInformacoes(){
