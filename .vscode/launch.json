@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Data",
+      "request": "launch",
+      "mainClass": "Listas.Provas.AP1CC.Q5.Data",
+      "projectName": "Programação Orientada ao Objeto 2024.2_70a29086"
+    },
+    {
+      "type": "java",
       "name": "Calendario",
       "request": "launch",
       "mainClass": "Calendario",
