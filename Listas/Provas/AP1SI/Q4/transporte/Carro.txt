@@ -1,0 +1,29 @@
+public class Carro{
+	private String modelo;
+	private int lugares;
+	private double preco;
+
+	public String getModelo(){
+		return modelo;
+	}
+
+	public void setModelo(String modelo){
+		this.modelo = modelo;
+	}
+
+	public int getLugares(){
+		return lugares;
+	}
+
+	public void setLugares(int lugares){
+		this.lugares = lugares;
+	}
+
+	public double getPreco(){
+		return preco;
+	}
+
+	public void setPreco(double preco){
+		this.preco = preco;
+	}
+}
