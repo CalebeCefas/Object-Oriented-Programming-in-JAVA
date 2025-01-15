@@ -7,4 +7,8 @@ public class AudioLivro extends Livro{
         super(titulo, autor, preco);
         this.tempoDeDuracao = tempoDeDuracao;
     }
+
+    public double getPreco(){
+        return preco;
+    }
 }

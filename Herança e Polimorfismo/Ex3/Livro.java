@@ -9,4 +9,8 @@ public class Livro {
         this.autor = autor;
         this.preco = preco;
     }
+
+    public double getPreco(){
+        return preco;
+    }
 }

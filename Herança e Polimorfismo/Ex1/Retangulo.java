@@ -8,4 +8,8 @@ public class Retangulo extends Poligono{
     public double calcularArea(){
         return base*altura;
     }
+
+    public double calcularPerimetro(){
+        return 2*base+2*altura;
+    }
 }

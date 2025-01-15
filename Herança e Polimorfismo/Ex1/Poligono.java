@@ -7,4 +7,8 @@ public class Poligono{
         this.base = base;
         this.altura = altura;
     }
+
+    public double calcularPerimetro(){
+        return 2*base+2*altura;
+    }
 }

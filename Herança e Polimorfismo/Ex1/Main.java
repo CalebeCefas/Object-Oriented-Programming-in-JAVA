@@ -9,5 +9,9 @@ public class Main {
         System.out.printf("Área do Quadrado: " + quadrado.calcularArea() + "\n");
         System.out.printf("Área do Retangulo: " + retangulo.calcularArea() + "\n");
         System.out.printf("Área do Triangulo: " + triangulo.calcularArea() + "\n");
+
+        System.out.printf("Área do Quadrado: " + quadrado.calcularPerimetro() + "\n");
+        System.out.printf("Área do Retangulo: " + retangulo.calcularPerimetro() + "\n");
+        System.out.printf("Área do Triangulo: " + triangulo.calcularPerimetro() + "\n");
     } 
 }

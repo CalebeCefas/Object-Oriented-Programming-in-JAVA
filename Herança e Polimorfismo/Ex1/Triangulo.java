@@ -8,4 +8,8 @@ public class Triangulo extends Poligono{
     public double calcularArea(){
         return (base*altura)/2;
     }
+
+    public double calcularPerimetro(){
+        return base + 2 * Math.sqrt((base / 2) * (base / 2) + altura * altura);
+    }
 }

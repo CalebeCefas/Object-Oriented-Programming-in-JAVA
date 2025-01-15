@@ -8,4 +8,8 @@ public class Quadrado extends Poligono{
     public double calcularArea(){
         return base*base;
     }
+
+    public double calcularPerimetro(){
+        return 4*base;
+    }
 }

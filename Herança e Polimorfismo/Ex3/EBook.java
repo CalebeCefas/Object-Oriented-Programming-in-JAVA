@@ -7,4 +7,8 @@ public class EBook extends Livro{
         super(titulo, autor, preco);
         this.tamanhoDoArquivo = tamanhoDoArquivo;
     }
+
+    public double getPreco(){
+        return preco;
+    }
 }
