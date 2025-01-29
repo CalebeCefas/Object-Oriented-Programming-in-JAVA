@@ -7,7 +7,10 @@ public class AppPedagio {
         Scanner sc = new Scanner(System.in);
         double[] veiculos = new double[5];
 
-        for (int i=0; i<5; i++) {
+        System.out.printf("Quantos veículos serão registrados?: ");
+        int q = sc.nextInt();
+
+        for (int i=0; i<q; i++) {
             System.out.printf("\nQual o tipo de veículo?\n1 - Carro\n2 - Caminhão\nOpção: ");
             int op = sc.nextInt();
             
@@ -30,7 +33,7 @@ public class AppPedagio {
 
         System.out.println("Veículos Registrados:");
 
-        for(int i=0; i<5; i++) {
+        for(int i=0; i<q; i++) {
             System.out.printf("Veículo %d: R$%.2f\n", i+1, veiculos[i]);
         }
 
